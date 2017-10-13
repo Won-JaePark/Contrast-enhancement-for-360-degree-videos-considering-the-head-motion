@@ -14,18 +14,18 @@ The experiments were performed on four 360 videos.
 The four videos were downloaded from YouTube.
 The videos have more than 2k resolution in equirectangular format with 29 or 30fps. We resized the videos to 2160x1080 for experiments in MATLAB.
 The experiments for the evaluation were performed for limited duration with start time offset because those videos are too long.
-The start time offsets were determined to avoid the meaningless sections, such as the whole black frames.
-The YouTube ids, start time offset and limited duration of the four videos are below:
+The start time offsets were determined to avoid the meaningless sections, such as the whole black frames. The experimental durations were set to 25s for all videos.
+The YouTube ids, start time offset and the four videos are below:
 
-<video_index : YouTube id, start time offset, experimental duration, fps>
+<video_index : YouTube id, start time offset, fps>
 
-Elephants    : 2bpICIClAIg, 10s, 25s, 30fps
+Elephants    : 2bpICIClAIg, 10s, 30fps
 
-Zoo          : z4wP_q1VBQI, 10s, 25s, 30fps
+Zoo          : z4wP_q1VBQI, 10s, 30fps
 
-Dew          : KwvVeXkp_3Q, 80s, 25s, 29fps
+Dew          : KwvVeXkp_3Q, 80s, 29fps
 
-Bar          : HsQfQPtPIxU, 10s, 25s, 29fps
+Bar          : HsQfQPtPIxU, 10s, 29fps
 
 
 Each folder presents the path and the velocity of the virtual head movement in our experiments.
