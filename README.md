@@ -20,8 +20,11 @@ The YouTube ids, start time offset and limited duration of the four videos are b
 <video_index : YouTube id, start time offset, experimental duration, fps>
 
 Elephants   : 2bpICIClAIg, 10s, 25s, 30fps
+
 Zoo         : z4wP_q1VBQI, 10s, 25s, 30fps
+
 Dew         : KwvVeXkp_3Q, 80s, 25s, 29fps
+
 Bar         : HsQfQPtPIxU, 10s, 25s, 29fps
 
 
